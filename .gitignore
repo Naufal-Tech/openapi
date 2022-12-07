@@ -4,9 +4,9 @@ node_modules/
 # dotenv environment variables file
 .env
 
-# ./wwebjs_auth
-# .wwebjs_auth
-# .wwebjs_auth/
+./wwebjs_auth
+.wwebjs_auth
+.wwebjs_auth/
 
 # Session file
 session.json
