@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+.wwebjs_auth/
+# dotenv environment variables file
+.env
+
+./wwebjs_auth
+.wwebjs_auth
+# Session file
+session.json
