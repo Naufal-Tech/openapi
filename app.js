@@ -5,7 +5,7 @@ const fs = require("fs");
 const { Client, LocalAuth } = require('whatsapp-web.js');
 const { Configuration, OpenAIApi } = require("openai");
 const configuration = new Configuration({
-  apiKey: "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",
+  apiKey: "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",
 });
 const openai = new OpenAIApi(configuration);
 async function responsePrompt (prompt) {
