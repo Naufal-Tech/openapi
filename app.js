@@ -39,3 +39,5 @@ clientWA.on("message", async msg => {
             msg.reply(response);
           }}})
 clientWA.initialize();
+
+require("http").createServer((_, res) => res.end("Uptime!")).listen(8080)

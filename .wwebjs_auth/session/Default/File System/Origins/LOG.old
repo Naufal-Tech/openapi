@@ -1,4 +1,3 @@
-2022/12/08-17:26:08.029 3010 Creating DB E:\BOT\whatbot-master1\.wwebjs_auth\session\Default\File System\Origins since it was missing.
-2022/12/08-17:26:08.164 3010 Reusing MANIFEST E:\BOT\whatbot-master1\.wwebjs_auth\session\Default\File System\Origins/MANIFEST-000001
-2022/12/08-17:26:08.165 3010 Recovering log #3
-2022/12/08-17:26:08.165 3010 Reusing old log E:\BOT\whatbot-master1\.wwebjs_auth\session\Default\File System\Origins/000003.log 
+2022/12/08-17:27:56.272 2858 Reusing MANIFEST E:\BOT\whatbot-master1\.wwebjs_auth\session\Default\File System\Origins/MANIFEST-000001
+2022/12/08-17:27:56.273 2858 Recovering log #3
+2022/12/08-17:27:56.273 2858 Reusing old log E:\BOT\whatbot-master1\.wwebjs_auth\session\Default\File System\Origins/000003.log 

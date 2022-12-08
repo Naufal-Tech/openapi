@@ -1,3 +1,15 @@
-2022/12/08-17:27:56.275 3a88 Reusing MANIFEST E:\BOT\whatbot-master1\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/12/08-17:27:56.276 3a88 Recovering log #170
-2022/12/08-17:27:56.390 3a88 Reusing old log E:\BOT\whatbot-master1\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000170.log 
+2022/12/08-17:47:18.093 3550 Reusing MANIFEST E:\BOT\whatbot-master1\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/08-17:47:18.093 3550 Recovering log #170
+2022/12/08-17:47:18.413 3550 Reusing old log E:\BOT\whatbot-master1\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000170.log 
+2022/12/08-17:47:32.818 888 Level-0 table #180: started
+2022/12/08-17:47:33.086 888 Level-0 table #180: 1281200 bytes OK
+2022/12/08-17:47:33.148 888 Delete type=0 #170
+2022/12/08-17:47:33.679 888 Compacting 1@1 + 6@2 files
+2022/12/08-17:47:34.420 888 Generated table #181@1: 31705 keys, 2260482 bytes
+2022/12/08-17:47:34.900 888 Generated table #182@1: 48234 keys, 2230703 bytes
+2022/12/08-17:47:35.079 888 Generated table #183@1: 2072 keys, 2153828 bytes
+2022/12/08-17:47:35.405 888 Generated table #184@1: 15493 keys, 2215313 bytes
+2022/12/08-17:47:35.763 888 Generated table #185@1: 42014 keys, 2196134 bytes
+2022/12/08-17:47:36.097 888 Generated table #186@1: 76870 keys, 1725641 bytes
+2022/12/08-17:47:36.097 888 Compacted 1@1 + 6@2 files => 12782101 bytes
+2022/12/08-17:47:36.140 888 compacted to: files[ 0 0 6 0 0 0 0 ]
