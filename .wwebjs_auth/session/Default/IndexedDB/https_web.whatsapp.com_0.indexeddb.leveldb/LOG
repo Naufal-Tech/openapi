@@ -1,20 +1,22 @@
-2022/12/08-09:35:48.757 2954 Reusing MANIFEST E:\BOT\whatbot-master1\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/12/08-09:35:48.853 2954 Recovering log #94
-2022/12/08-09:35:49.247 2954 Reusing old log E:\BOT\whatbot-master1\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000094.log 
-2022/12/08-09:36:19.438 24ac Level-0 table #103: started
-2022/12/08-09:36:19.738 24ac Level-0 table #103: 1280958 bytes OK
-2022/12/08-09:36:19.821 24ac Delete type=0 #94
-2022/12/08-09:36:19.949 30e0 Compacting 1@1 + 5@2 files
-2022/12/08-09:36:20.761 30e0 Generated table #104@1: 44024 keys, 2228950 bytes
-2022/12/08-09:36:21.949 30e0 Generated table #105@1: 4348 keys, 2157756 bytes
-2022/12/08-09:36:22.456 30e0 Generated table #106@1: 13996 keys, 2208030 bytes
-2022/12/08-09:36:23.236 30e0 Generated table #107@1: 40821 keys, 2199909 bytes
-2022/12/08-09:36:23.891 30e0 Generated table #108@1: 73371 keys, 1646111 bytes
-2022/12/08-09:36:23.891 30e0 Compacted 1@1 + 5@2 files => 10440756 bytes
-2022/12/08-09:36:24.009 30e0 compacted to: files[ 0 0 5 0 0 0 0 ]
-2022/12/08-09:36:24.010 30e0 Delete type=2 #96
-2022/12/08-09:36:24.010 30e0 Delete type=2 #97
-2022/12/08-09:36:24.010 30e0 Delete type=2 #98
-2022/12/08-09:36:24.010 30e0 Delete type=2 #99
-2022/12/08-09:36:24.010 30e0 Delete type=2 #100
-2022/12/08-09:36:24.010 30e0 Delete type=2 #103
+2022/12/08-15:33:10.122 3220 Reusing MANIFEST E:\BOT\whatbot-master1\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/08-15:33:10.123 3220 Recovering log #125
+2022/12/08-15:33:10.366 3220 Reusing old log E:\BOT\whatbot-master1\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000125.log 
+2022/12/08-15:33:38.092 28e8 Level-0 table #135: started
+2022/12/08-15:33:38.317 28e8 Level-0 table #135: 1337581 bytes OK
+2022/12/08-15:33:38.384 28e8 Delete type=0 #125
+2022/12/08-15:33:38.505 be0 Compacting 1@1 + 6@2 files
+2022/12/08-15:33:39.063 be0 Generated table #136@1: 38286 keys, 2244336 bytes
+2022/12/08-15:33:39.626 be0 Generated table #137@1: 23175 keys, 2191172 bytes
+2022/12/08-15:33:39.961 be0 Generated table #138@1: 4191 keys, 2157296 bytes
+2022/12/08-15:33:40.370 be0 Generated table #139@1: 23388 keys, 2229251 bytes
+2022/12/08-15:33:40.939 be0 Generated table #140@1: 84865 keys, 2229715 bytes
+2022/12/08-15:33:41.056 be0 Generated table #141@1: 20723 keys, 465454 bytes
+2022/12/08-15:33:41.056 be0 Compacted 1@1 + 6@2 files => 11517224 bytes
+2022/12/08-15:33:41.101 be0 compacted to: files[ 0 0 6 0 0 0 0 ]
+2022/12/08-15:33:41.102 be0 Delete type=2 #127
+2022/12/08-15:33:41.102 be0 Delete type=2 #128
+2022/12/08-15:33:41.102 be0 Delete type=2 #129
+2022/12/08-15:33:41.102 be0 Delete type=2 #130
+2022/12/08-15:33:41.102 be0 Delete type=2 #131
+2022/12/08-15:33:41.102 be0 Delete type=2 #132
+2022/12/08-15:33:41.102 be0 Delete type=2 #135
