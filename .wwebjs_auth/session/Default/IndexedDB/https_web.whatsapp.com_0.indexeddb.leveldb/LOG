@@ -1,15 +1,15 @@
-2022/12/08-17:47:18.093 3550 Reusing MANIFEST E:\BOT\whatbot-master1\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/12/08-17:47:18.093 3550 Recovering log #170
-2022/12/08-17:47:18.413 3550 Reusing old log E:\BOT\whatbot-master1\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000170.log 
-2022/12/08-17:47:32.818 888 Level-0 table #180: started
-2022/12/08-17:47:33.086 888 Level-0 table #180: 1281200 bytes OK
-2022/12/08-17:47:33.148 888 Delete type=0 #170
-2022/12/08-17:47:33.679 888 Compacting 1@1 + 6@2 files
-2022/12/08-17:47:34.420 888 Generated table #181@1: 31705 keys, 2260482 bytes
-2022/12/08-17:47:34.900 888 Generated table #182@1: 48234 keys, 2230703 bytes
-2022/12/08-17:47:35.079 888 Generated table #183@1: 2072 keys, 2153828 bytes
-2022/12/08-17:47:35.405 888 Generated table #184@1: 15493 keys, 2215313 bytes
-2022/12/08-17:47:35.763 888 Generated table #185@1: 42014 keys, 2196134 bytes
-2022/12/08-17:47:36.097 888 Generated table #186@1: 76870 keys, 1725641 bytes
-2022/12/08-17:47:36.097 888 Compacted 1@1 + 6@2 files => 12782101 bytes
-2022/12/08-17:47:36.140 888 compacted to: files[ 0 0 6 0 0 0 0 ]
+2022/12/08-18:20:11.844 2acc Reusing MANIFEST E:\BOT\whatbot-master1\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/08-18:20:11.844 2acc Recovering log #179
+2022/12/08-18:20:12.121 2acc Reusing old log E:\BOT\whatbot-master1\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000179.log 
+2022/12/08-18:20:26.299 2e04 Level-0 table #189: started
+2022/12/08-18:20:26.528 2e04 Level-0 table #189: 1316707 bytes OK
+2022/12/08-18:20:26.602 2e04 Delete type=0 #179
+2022/12/08-18:20:28.279 2e04 Compacting 1@1 + 6@2 files
+2022/12/08-18:20:28.893 2e04 Generated table #190@1: 30591 keys, 2257737 bytes
+2022/12/08-18:20:29.511 2e04 Generated table #191@1: 50772 keys, 2240513 bytes
+2022/12/08-18:20:30.029 2e04 Generated table #192@1: 6964 keys, 2162377 bytes
+2022/12/08-18:20:30.474 2e04 Generated table #193@1: 11579 keys, 2194362 bytes
+2022/12/08-18:20:31.049 2e04 Generated table #194@1: 29187 keys, 2199096 bytes
+2022/12/08-18:20:32.875 2e04 Generated table #195@1: 94025 keys, 2109703 bytes
+2022/12/08-18:20:32.875 2e04 Compacted 1@1 + 6@2 files => 13163788 bytes
+2022/12/08-18:20:32.948 2e04 compacted to: files[ 0 0 6 0 0 0 0 ]

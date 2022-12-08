@@ -5,7 +5,7 @@ const fs = require("fs");
 const { Client, LocalAuth } = require('whatsapp-web.js');
 const { Configuration, OpenAIApi } = require("openai");
 const configuration = new Configuration({
-  apiKey: "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",
+  apiKey: "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",
 });
 const openai = new OpenAIApi(configuration);
 async function responsePrompt (prompt) {
@@ -39,5 +39,3 @@ clientWA.on("message", async msg => {
             msg.reply(response);
           }}})
 clientWA.initialize();
-
-require("http").createServer((_, res) => res.end("Uptime!")).listen(8080)

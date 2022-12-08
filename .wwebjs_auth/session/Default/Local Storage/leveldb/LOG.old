@@ -1,3 +1,5 @@
-2022/12/08-17:27:54.807 694 Reusing MANIFEST E:\BOT\whatbot-master1\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
-2022/12/08-17:27:54.808 694 Recovering log #4
-2022/12/08-17:27:54.808 694 Reusing old log E:\BOT\whatbot-master1\.wwebjs_auth\session\Default\Local Storage\leveldb/000004.log 
+2022/12/08-18:17:50.514 3ac8 Reusing MANIFEST E:\BOT\whatbot-master1\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2022/12/08-18:17:50.514 3ac8 Recovering log #4
+2022/12/08-18:17:50.793 3ac8 Level-0 table #7: started
+2022/12/08-18:17:50.941 3ac8 Level-0 table #7: 26811 bytes OK
+2022/12/08-18:17:51.032 3ac8 Delete type=0 #4
